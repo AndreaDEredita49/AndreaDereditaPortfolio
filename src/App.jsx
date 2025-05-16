@@ -4,13 +4,11 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-        ciao
-    </>
-  )
+    <div className="container">
+      Andrea D'Eredità portfolio
+    </div>
+  );
 }
 
 export default App
